@@ -1,0 +1,10 @@
+POST http://localhost:8080/
+content-type: text/plain
+
+https://practicum.yandex.ru/
+###
+GET http://localhost:8080/1
+content-type: text/plain
+
+https://practicum.yandex.ru/
+###
